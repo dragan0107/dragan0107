@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 My name is Dragan, and I'm a self-taught JavaScript developer, focusing on MERN stack. I enjoy both Front and Backend side,
+I'm trying to learn about both as much as I can.
+
+- 🔭 I’m currently working on some Full-stack applications to practice all the knowledge I acquire over time..
+- 🌱 I’m currently learning more about React.
+- 🤔 I’m constantly trying to get better, and to get a good grasp about how these technologies exactly work in the background.
+- 💬 As of know, I think I possess enough knowledge for an internship, or Junior position.
+- 📫 How to reach me: e-mail: gacee016@live.com - Discord: DRIP#4832
+
 
 <!--
 **drip016/drip016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
