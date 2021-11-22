@@ -2,9 +2,9 @@
 I'm trying to learn about both as much as I can.
 
 - 🔭 I’m currently working on some Full-stack applications to practice all the knowledge I acquire over time..
-- 🌱 I’m currently learning more about React.
+- 🌱 I’m currently leveling up my knowledge of React.
 - 🤔 I’m constantly trying to get better, and to get a good grasp about how these technologies exactly work in the background.
-- 💬 As of now, I think I possess enough knowledge for an internship, or Junior position.
+- 💬 As of now, I think I possess enough knowledge for an internship, or a Junior position.
 - 📫 Reach me out via e-mail: gacee016@live.com - Discord: DRIP#4832
 
 
