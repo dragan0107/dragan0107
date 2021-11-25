@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Dragan, and I'm a self-taught JavaScript developer, focusing on MERN stack. I enjoy both Front and Backend side.
+### Hi there 👋 My name is Dragan, and I'm a self-taught JavaScript developer, focusing on MERN stack. I enjoy both Front and Backend side. 
 I'm trying to learn about both as much as I can.
 
 - 🔭 I’m currently working on some Full-stack applications to practice all the knowledge I acquire over time..
