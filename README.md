@@ -5,7 +5,7 @@ I'm always looking forward to learn as much and get a bigger picture about progr
 - 🌱 I’m currently leveling up my knowledge of React. 
 - 🤔 I’m constantly trying to get better, and to get a good grasp about how these technologies exactly work in the background.
 - 💬 As of now, I think I possess enough knowledge for an internship, or a Junior position.
-- 📫 Reach me out via e-mail: gacee016@live.com - Discord: DRIP#4832
+- 📫 Reach me out via e-mail: s.dragan016@gmail.com - Discord: DRIP#4832
 
 
 <!--
