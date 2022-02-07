@@ -13,4 +13,3 @@ ___
 - [ ] Typescript
 - [ ] Redux
 ___
-### You can check my projects below, where I put into practice everything I've learned so far. There's always room for improvement, and that's the mindset I approach them with.
