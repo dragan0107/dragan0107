@@ -7,7 +7,7 @@ ___
 - 💬 As of now, I'm looking for an internship, or a Junior position.
 - 📫 You can reach me out via e-mail: **s.dragan016@gmail.com** - Discord: DRIP#4832
 ___
-### Tools I plan on learning in the near future:
+### Tools || Technologies I plan on learning in the near future:
 
 - [ ] Docker
 - [ ] Typescript
