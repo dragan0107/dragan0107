@@ -5,9 +5,11 @@ ___
 - 🌱 At the moment, I'm leveling up my knowledge of React. 
 - 🤔 I’m always looking for a way to write a more efficient code, and structure my applications properly.
 - 💬 As of now, I'm looking for an internship, or a Junior position.
+- ✍️ I like writing and keeping my **_README.md_** files tidy so I try to improve on that as well :)
+
 - 📫 You can reach me out via e-mail: **s.dragan016@gmail.com** - Discord: DRIP#4832
 ___
-### Tools || Technologies I plan on learning in the near future:
+### Tools || Technologies I am/plan on learning in the near future:
 
 - [ ] Docker
 - [ ] Typescript
