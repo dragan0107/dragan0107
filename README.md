@@ -2,7 +2,6 @@
 ### Programming is something I really enjoy, and there's always something cool and interesting to learn. 
 ---
 ## **March 2022 update: I got accepted as a Front-end developer (_React_) intern!**
-### - There will probably be less github commits in the following weeks, as I will focus on my internship. I'm also solving some HackerRank problems on the side, refreshing my knowledge of Node.js, relational databases, and some theory in general. 
 ___
 - 💻 Currently, I'm also working on some Full-stack applications to get enough practice and get more comfortable with these technologies.
 - 🌱 At the moment, I'm leveling up my knowledge of React. 
