@@ -12,6 +12,6 @@ ___
 ### Tools || Technologies I am/plan on learning in the near future:
 
 - [ ] Docker
-- [ ] Typescript
+- [x] ~TypeScript~
 - [ ] Redux
 ___
