@@ -1,6 +1,5 @@
 ## Hi there 👋 My name is ***Dragan***, and I'm a JavaScript developer, focusing on `MERN` stack. I enjoy both Front and Back-end side of the applications. 
 ### Programming is something I really enjoy, and there's always something cool and interesting to learn. 
----
 ___
 - 💻 Currently, I'm also working on some Full-stack applications to get enough practice and get more comfortable with these technologies.
 - 🌱 At the moment, I'm leveling up my knowledge of React. 
