@@ -11,5 +11,5 @@ ___
 
 - [ ] Docker
 - [x] ~TypeScript~
-- [x] Redux
+- [x] ~Redux~
 ___
