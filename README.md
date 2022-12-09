@@ -9,7 +9,7 @@ ___
 ___
 ### Tools || Technologies I am/plan on learning in the near future:
 
-- [ ] Docker
+- [x] ~Docker~
 - [x] ~TypeScript~
 - [x] ~Redux~
 ___
